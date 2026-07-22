@@ -63,7 +63,7 @@ This repository will be updated regularly as I complete new weekly assignments a
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Saket19Ranjan
-- Email: saketranjan1902@gmail.com
+- Email: shaketranjan84@gmail.com
 
 ---
 
